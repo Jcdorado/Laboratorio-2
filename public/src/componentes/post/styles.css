@@ -1,0 +1,96 @@
+#fondoDePantalla {
+    width: 250px;
+    height: 350px;
+    background-color: black;
+    box-shadow: 2px 2px 40px #999;
+    position: relative;
+}
+
+#logo {
+    width: 25px;
+    top: 30px;
+    position: absolute;
+    left: 10px;
+
+}
+
+#Username {
+    color: white;
+    font-size: 8px;
+    font-family: Arial;
+    position: absolute;
+    top: 28px;
+    left: 40px;
+}
+
+#Ubicacion {
+    color: whitesmoke;
+    font-size: 6px;
+    font-family: Arial;
+    position: absolute;
+    top: 42px;
+    left: 40px;
+}
+
+
+#info {
+    width: 25px;
+    position: absolute;
+    top: 20px;
+    left: 310px;
+}
+
+#post {
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+}
+
+#Heart {
+    width: 15px;
+    top: 280px;
+    position: absolute;
+    left: 5px;
+
+}
+
+#comment {
+    width: 13px;
+    top: 279px;
+    position: absolute;
+    left: 25px;
+
+
+}
+
+#shareicon {
+    width: 13px;
+    top: 280px;
+    position: absolute;
+    left: 42px;
+}
+
+#save {
+    width: 13px;
+    top: 280px;
+    position: absolute;
+    left: 230px;
+}
+
+#scroll {
+    width: 20px;
+    position: absolute;
+    top: 283px;
+    left: 103px;
+}
+
+#comentario {
+    color: white;
+    font-size: 6px;
+    font-family: Arial;
+    position: absolute;
+    top: 307px;
+    left: 5px;
+}

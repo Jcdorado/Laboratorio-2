@@ -1,0 +1,15 @@
+#union {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+#boton {
+    font-family: Arial;
+    height: 22px;
+}
+
+#cantidadDeLikes{
+    font-size: 20px;
+    font-family: Arial;
+}
